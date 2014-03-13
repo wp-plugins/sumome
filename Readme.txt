@@ -59,6 +59,14 @@ You can use our default options or fully control the CSS in the advanced section
 
 Yes, we provide instant integration with Mailchimp, Aweber, Constant Contact and Campaign Monitor.
 
+== Screenshots ==
+
+1. This screen shot is how to Sign up once you’ve activated the plugin. 
+2. This is the screen to choose which apps to install.
+3. Here’s the box when someone highlights text before they share it on Twitter or Facebook.
+4. Here’s how a highlighted text gorgeously looks on your site.
+5. Here’s what the list builder popup looks like.
+
 == Changelog ==
 
 = 1.04 = 
@@ -75,10 +83,3 @@ Yes, we provide instant integration with Mailchimp, Aweber, Constant Contact and
 = 1.05 = 
 *Yay images
 
-== Screenshots ==
-
-1. This screen shot is how to Sign up once you’ve activated the plugin. 
-2. This is the screen to choose which apps to install.
-3. Here’s the box when someone highlights text before they share it on Twitter or Facebook.
-4. Here’s how a highlighted text gorgeously looks on your site.
-5. Here’s what the list builder popup looks like.
