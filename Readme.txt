@@ -62,17 +62,23 @@ Yes, we provide instant integration with Mailchimp, Aweber, Constant Contact and
 == Changelog ==
 
 = 1.04 = 
-Old school original version
+*Old school original version
+
+= 1.05 =
+*Fixed screenshots
 
 == Upgrade Notice == 
 
 = 1.04 = 
-You are original!
+*You are original!
+
+= 1.05 = 
+*Yay images
 
 == Screenshots ==
 
 1. This screen shot is how to Sign up once you’ve activated the plugin. 
-1. This is the screen to choose which apps to install.
-1. Here’s the box when someone highlights text before they share it on Twitter or Facebook.
-1. Here’s how a highlighted text gorgeously looks on your site.
-1. Here’s what the list builder popup looks like.
+2. This is the screen to choose which apps to install.
+3. Here’s the box when someone highlights text before they share it on Twitter or Facebook.
+4. Here’s how a highlighted text gorgeously looks on your site.
+5. Here’s what the list builder popup looks like.
