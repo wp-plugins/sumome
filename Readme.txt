@@ -13,7 +13,7 @@ A free toolkit for growing your website traffic.  Use List Builder to get email 
 
 Most blogs are designed for hit-and-run readers. People find your blog, read your article, and leave. Wouldn't it be nice if some of those people subscribe or share your amazing post?
 
-SumoMe provides the tools you need to grow your blog by engaging your readers. This plugin will make it easy for your readers to tweet about your article by highlighting popular parts of your writing (like Kindle and Medium), and the List Builder tool in this plugin will let you create a fancy lightbox popover to [build email subscriptions] (http://sumome.com).
+SumoMe provides the tools you need to grow your blog by engaging your readers. This plugin will make it easy for your readers to tweet about your article by highlighting popular parts of your writing (like Kindle and Medium), and the List Builder tool in this plugin will let you create a fancy lightbox popover to [build email subscriptions](http://sumome.com).
 
 Now, people will find your blog, read your article, share your article on Twitter, and subscribe via email.
 
