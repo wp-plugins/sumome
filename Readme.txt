@@ -1,4 +1,4 @@
-=== MailChimp Newsletter + Twitter Sharing by SumoMe ===
+===  Double your Email Newsletter + Twitter Sharing by SumoMe ===
 Contributors: SumoMe
 Tags: MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit popup, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox
 Requires at least: 3.0.1
@@ -7,7 +7,7 @@ Stable tag: 4.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A free toolkit for growing your website traffic.  Use List Builder to get MailChimp email subscribers and Highlighter to encourage Twitter sharing.
+The free and easiest way to double your email subscribers. Also, includes Highlighter feature to increase sharing on Facebook and Twitter. 
 
 == Description ==
 
