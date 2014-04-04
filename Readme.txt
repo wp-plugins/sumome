@@ -1,6 +1,6 @@
-===  Double your Email Newsletter + Twitter Sharing by SumoMe ===
+===  Double your Email Subscribers + Twitter Sharing by SumoMe ===
 Contributors: SumoMe
-Tags: MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit popup, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox
+Tags: widget,MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit popup, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox
 Requires at least: 3.0.1
 Tested up to: 3.8.1
 Stable tag: 4.4
