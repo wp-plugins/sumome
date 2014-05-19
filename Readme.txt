@@ -1,21 +1,21 @@
-===  Double your Email Subscribers + Twitter Sharing by SumoMe ===
+===  Double your Email Subscribers + Image Sharing + Quote Sharing by SumoMe ===
 Contributors: SumoMe
-Tags: widget,MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit popup, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox
+Tags: widget,MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit popup, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox, add this, addtoany, analytics, bookmarking, newsletter, bookmarks, del.icio.us, Digg, email, Facebook, facebook likeblog monetization, floating social buttons, gmail, google plus, image bookmarking, Image sharing, email, linkedin, pinterest, pintrest, Reddit, mailchimp, share image, share this, Shareaholic, sharebar, sharing, social bookmarking, social media, social plugin, stats, tumblr, tweet button, twitter, wordpress
 Requires at least: 3.0.1
 Tested up to: 3.8.1
 Stable tag: 4.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The free and easiest way to double your email subscribers. Also, includes Highlighter feature to increase sharing on Facebook and Twitter. 
+The free and easiest way to double your email subscribers. Also includes Highlighter and ImageSharer to increase Facebook, Twitter and Pinterest use. 
 
 == Description ==
 
 Most blogs are designed for hit-and-run readers. People find your blog, read your article, and leave. Wouldn't it be nice if some of those people subscribe or share your amazing post?
 
-SumoMe provides the tools you need to grow your blog by engaging your readers. This plugin will make it easy for your readers to tweet about your article by highlighting popular parts of your writing (like Kindle and Medium), and the List Builder tool in this plugin will let you create a fancy lightbox popover to [build email subscriptions](http://sumome.com/) (for MailChimp, Aweber, or others).
+SumoMe provides the tools you need to grow your blog by engaging your readers. The features of this plugin will make it easy for your readers share your articles and engage in your community. Highlighter makes it easy to tweet about your article by selecting popular parts of your writing (like Kindle and Medium); ImageSharer makes it stupid simple to share your images (with a link to your post) on Pinterest, Facebook and Twitter; while the List Builder tool in this plugin will let you create a fancy lightbox popover to [build email subscriptions](http://sumome.com/) (for MailChimp, Aweber, or others).
 
-Now, people will find your blog, read your article, share your article on Twitter, and subscribe via email to your MailChimp email newsletter.
+Now, people will find your blog, read your article, share your article on Twitter/Facebook/Pinterest, and subscribe via email to your MailChimp email newsletter.
 
 = Features =
 
@@ -36,6 +36,12 @@ Now, people will find your blog, read your article, share your article on Twitte
 * Or simply export email subscribers in a .csv file
 * Quickly growth your email newsletter list
 * View email subscription statistics for all time
+* Easily add Facebook, Twitter, and Pinterest sharing to your images
+* Images have higher engagement on social networks
+* Include your Twitter username in tweeted images
+* Share count shows how often people share your images
+* Install image sharing in literally seconds
+* Choose which features/apps you want to enable
 
 = List Builder (email subscribe feature) =
 
@@ -81,12 +87,32 @@ When someone tweets a quote from your article, our plugin automatically highligh
 
 Tweets generated through Highlighter will both link to your article and include your Twitter username. This will build traffic to your website while also boosting your Twitter profile and building your Twitter following. Adding your Twitter username is as easy as typing your username into the Highlighter settings - you don't need to give access to your Twitter account.
 
+= ImageSharer (Image sharing feature) =
+
+Have you ever noticed how some blogs and websites make it easy to share their images on social networks like Pinterest?  Because these images link back to your article, people who share your images on Pinterest, Twitter, and Facebook can drive significant traffic to your website.  ImageSharer makes it easy for you to add professional image sharing to your website with just a click of the button.
+
+= Image sharing for Pinterest =
+
+Pinterest is one of the fastest growing social networks right now, and some studies have found Pinterest users spend more than other social network visitors.  By making it easy for your visitors to share their favorite images from your blog on Pinterest, we're helping you unlock a major source of valuable traffic that many bloggers aren't even pursuing yet.
+
+= Image sharing for Facebook =
+
+Did you know that photo posts on Facebook get 84% more click-throughs than text posts (according to KISSmetrics)?  The ImageSharer plugin makes it stupid simple for your readers to easily share your beautiful images on Facebook with just a click of the button.
+
+= Image sharing for Twitter =
+
+According to Buffer, image tweets on Twitter get fully 2x the engagement of text tweets!  Essentially, every time one of your readers shares an image from your blog, you're getting the equivalent of two ordinary tweets.
+
+= Easy image sharing for all three social networks =
+
+ImageSharer makes it super easy to add image sharing for all three powerful social networks without any coding or frustrating setup.  Simply install the SumoMe plugin, click to activate ImageSharer, and watch your share stats start rolling in.
+
 [youtube http://www.youtube.com/watch?v=O1cdli41GtM]
 
 == Installation ==
 
 1. Upload folder wp-sumome.zip to the `/wp-content/plugins/` directory
-1. Activate the plugin through the Ã«Plugins' menu in WordPress
+1. Activate the plugin through the ÃƒÂ«Plugins' menu in WordPress
 1. Go to your site and click on the blue thingy in the top right.
 1. Click on Highlighter or List Builder to install the apps and get going.
 1. Eat a taco and enjoy the increased traffic to your site. 
@@ -166,10 +192,14 @@ Why you should encourage Twitter sharing
 * Twitter sharing establishes your thought leadership
 * Twitter shares encourage discussion of your posts
 
+Here's why image sharing on Pinterest, Facebook, and Twitter is so powerful
+
+*
+
 
 == Screenshots ==
 
-1. This screen shot is how to Sign up once you’ve activated the plugin. 
+1. This screen shot is how to Sign up once you have activated the plugin. 
 2. This is the screen to choose which apps to install.
 3. Here's the box when someone highlights text before they share it on Twitter or Facebook.
 4. Here's how a highlighted text gorgeously looks on your site.
