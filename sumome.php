@@ -2,8 +2,8 @@
 /*
 Plugin Name: SumoMe
 Plugin URI: http://sumome.com
-Description: WordPress plugin for SumoMe
-Version: 1.0
+Description: Free Tools to grow your email list from SumoMe.com
+Version: 1.5
 Author: AppSumo
 Author URI: http://www.appsumo.com
 */
