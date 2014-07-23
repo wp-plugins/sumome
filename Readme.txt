@@ -1,6 +1,6 @@
 ===  Double your Email Subscribers + Image Sharing + Quote Sharing by SumoMe ===
 Contributors: SumoMe
-Tags: widget,MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit popup, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox, add this, addtoany, analytics, bookmarking, newsletter, bookmarks, del.icio.us, Digg, email, Facebook, facebook likeblog monetization, floating social buttons, gmail, google plus, image bookmarking, Image sharing, email, linkedin, pinterest, pintrest, Reddit, mailchimp, share image, share this, Shareaholic, sharebar, sharing, social bookmarking, social media, social plugin, stats, tumblr, tweet button, twitter, wordpress
+Tags: widget,MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit popup, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox, add this, addtoany, analytics, bookmarking, newsletter, bookmarks, del.icio.us, Digg, email, Facebook, facebook likeblog monetization, floating social buttons, gmail, google plus, image bookmarking, Image sharing, email, linkedin, pinterest, pintrest, Reddit, mailchimp, share image, share this, Shareaholic, sharebar, sharing, social bookmarking, social media, getresponse, social plugin, stats, tumblr, tweet button, twitter, wordpress
 Requires at least: 3.0.1
 Tested up to: 3.8.1
 Stable tag: 4.4
@@ -13,17 +13,19 @@ The free and easiest way to double your email subscribers. Also includes Highlig
 
 Most blogs are designed for hit-and-run readers. People find your blog, read your article, and leave. Wouldn't it be nice if some of those people subscribe or share your amazing post?
 
-SumoMe provides the tools you need to grow your blog by engaging your readers. The features of this plugin will make it easy for your readers share your articles and engage in your community. Highlighter makes it easy to tweet about your article by selecting popular parts of your writing (like Kindle and Medium); ImageSharer makes it stupid simple to share your images (with a link to your post) on Pinterest, Facebook and Twitter; while the List Builder tool in this plugin will let you create a fancy lightbox popover to [build email subscriptions](http://sumome.com/) (for MailChimp, Aweber, or others).
+SumoMe provides the tools you need to grow your blog by engaging your readers. The features of this plugin will make it easy for your readers share your articles and engage in your community. Highlighter makes it easy to tweet about your article by selecting popular parts of your writing (like Kindle and Medium); ImageSharer makes it stupid simple to share your images (with a link to your post) on Pinterest, Facebook and Twitter; while the List Builder tool in this plugin will let you create a fancy lightbox popover to [build email subscriptions](http://sumome.com/) (for MailChimp, GetResponse, Aweber, or others).
 
 Now, people will find your blog, read your article, share your article on Twitter/Facebook/Pinterest, and subscribe via email to your MailChimp email newsletter.
 
 = Features =
 
-* Easy integration with any theme
+* Easy integration with any WordPress theme
 * Simple email integration with MailChimp, Aweber, Constant Contact, and Campaign Monitor
 * Asynchronous loading that won't affect page load speed
 * Total control over which growth features to enable
 * Easy sharing on Twitter
+* Customize templates to make your email popup look amazing
+* See gravatars of your most recent email subscribers
 * Highlighting of popular Twitter sections (like Kindle and Medium)
 * Simply delete any tweet highlights you don't want
 * Promotion of your Twitter handle
@@ -57,9 +59,10 @@ You can adjust the List Builder settings to automatically load the popover subsc
 
 The optional smart timing will automatically load the Aweber email subscription box when we think the reader is getting ready to leave. Much like Exit Monitor, we do this by monitoring mouse movements that determine exit intent. When the mouse moves toward the X to close your website, the popover will quickly ask for their email. (Note: This isn't a popup, so it won't interfere with closing the tab.)
 
+
 = Connect with major email providers =
 
-Our email list builder easily connects with all major email providers including Aweber, MailChimp, Constant Contact, and Campaign Monitor. This means that if you use an email manager like MailChimp, your new subscribers can automatically subscribe to your list instantly.
+Our email list builder easily connects with all major email providers including Aweber, MailChimp, Constant Contact, GetResponse and Campaign Monitor. This means that if you use an email manager like MailChimp, your new subscribers can automatically subscribe to your list instantly.
 
 Alternately, you can simply set List Builder to collect email addresses that you can export in CSV format.
 
@@ -153,7 +156,7 @@ You can use our default options or fully control the CSS in the advanced section
 
 = Do you provide instant connections to any email providers? = 
 
-Yes, we provide instant integration with Mailchimp, Aweber, Constant Contact and Campaign Monitor.  When a user joins, their email is automatically subscribed to your MailChimp, Aweber, or other newsletter list. Alternately, you can simply download a CSV list of your newsletter subscribers.
+Yes, we provide instant integration with Mailchimp, Aweber, GetResponse, Constant Contact and Campaign Monitor.  When a user joins, their email is automatically subscribed to your MailChimp, Aweber, or other newsletter list. Alternately, you can simply download a CSV list of your newsletter subscribers.
 
 == Other Notes ==
 
@@ -165,6 +168,7 @@ Email newsletter integration options
 * Aweber newsletter integration
 * Constant Contact newsletter integration
 * Campaign Monitor newsletter integration
+* GetResponse newsletter integration
 
 Why people use MailChimp
 
@@ -204,6 +208,9 @@ Here's why image sharing on Pinterest, Facebook, and Twitter is so powerful
 3. Here's the box when someone highlights text before they share it on Twitter or Facebook.
 4. Here's how a highlighted text gorgeously looks on your site.
 5. Here's what the list builder popup looks like.
+6. This is the internal dashboard you get
+7. Fully customize the look and feel of list builder
+8. Connect with all major email providers
 
 == Changelog ==
 
@@ -216,6 +223,9 @@ Here's why image sharing on Pinterest, Facebook, and Twitter is so powerful
 = 1.06 = 
 * Made it super simple and easy to auto-resize the window.
 
+= 1.07 = 
+* Redesigned dashboard and list builder email templates now available
+
 == Upgrade Notice == 
 
 = 1.04 = 
@@ -223,3 +233,6 @@ Here's why image sharing on Pinterest, Facebook, and Twitter is so powerful
 
 = 1.05 = 
 * Yay images
+
+= 1.06 = 
+* Redesigned dashboard and list builder email templates now available
