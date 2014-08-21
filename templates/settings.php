@@ -85,7 +85,7 @@
 <div id="sumome">
 
 <div class="wrap">
-  <h2>SumoMe Wordpress Plugin</h2>
+  <h2>SumoMe WordPress Plugin</h2>
   <form method="post" action="options.php">
     <?php settings_fields('sumome'); ?>
     <div class="sumome-instructions">
@@ -131,9 +131,9 @@ If you already have a site ID from a previous installation and you wish to retai
     <h4>Step 2. Install Apps</h4>
     <div class="row">
       <div class="large-12 columns">
-        <p>Click on the Sumo Store icon and find the Twilighter app.</p>
+        <p>Click on the Sumo Store icon and click the app you want to install.</p>
 
-        <p>Click FREE to install. The app is now live on your site!</p>
+        <p>Bamn! The app is now live on your site.</p>
       </div>
     </div>
   </div>
@@ -146,14 +146,14 @@ If you already have a site ID from a previous installation and you wish to retai
 
 <div class="row">
   <div class="large-8 columns">
-    <h4>Step 3. Setup Highlighter</h4>
+    <h4>Step 3. Grow Faster</h4>
     <div class="row">
       <div class="large-12 columns">
         <p>Click the SumoMe badge to return to your apps.</p>
 
-        <p>Click on the Highlighter icon and enter your Twitter username.</p>
+        <p>Click on the apps to edit the settings.</p>
 
-        <p>Save and you're done!</p>
+        <p>Save and you're ready to start growing!</p>
       </div>
     </div>
   </div>
@@ -169,15 +169,13 @@ If you already have a site ID from a previous installation and you wish to retai
 
 <div class="row">
   <div class="large-4 columns">
-    <a class="th" target="_blank"><img src="<?php echo plugins_url('images/sumome-site-listbuilder.png', dirname(__FILE__)) ?>"></a>
+    <a class="th" href="http://sumome.com" target="_blank"><img src="<?php echo plugins_url('images/sumome-site-site.png', dirname(__FILE__)) ?>"></a>
   </div>
   <div class="large-8 columns">
-    <h4>Step 4. Grow Faster</h4>
+    <h4>Step 4. Leave a Review :)</h4>
     <div class="row">
       <div class="large-12 columns">
-        <p>Click on the List Builder App.</p>
-		<p>Click on settings, then services and choose your email provider.</p>
-		<p>Bang. You're now instantly growing your email list.</p>
+       <p>If you like the plugin please leave an <a target="_blank" href="http://wordpress.org/support/view/plugin-reviews/sumome">honest review here</a>.</p>
 		<p></p>
       </div>
     </div>
@@ -188,7 +186,7 @@ If you already have a site ID from a previous installation and you wish to retai
 </div>
 
 <!-- Sixth Band (Image right with Text) -->
-
+<!--
 <div class="row">
   <div class="large-8 columns">
     <a class="th" href="http://sumome.com/" target="_blank"><img src="<?php echo plugins_url('images/sumome-site-site.png', dirname(__FILE__)) ?>"></a>
@@ -197,7 +195,7 @@ If you already have a site ID from a previous installation and you wish to retai
     <h4>Step 5. Visit SumoMe</h4>
     <div class="row">
       <div class="large-4 columns">
-        <p>Visit <a href="http://sumome.com/" target="_blank">SumoMe</a> for more information and apps to grow your website.</p>
+        <p>If you like the plugin please leave an <a target="_blank" href="http://wordpress.org/support/view/plugin-reviews/sumome">honest review here</a>.</p>
       </div>
     </div>
   </div>
@@ -205,6 +203,6 @@ If you already have a site ID from a previous installation and you wish to retai
     <hr />
   </div>
 </div>
-
+-->
 
 </div>
