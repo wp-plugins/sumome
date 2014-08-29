@@ -110,6 +110,8 @@ If you already have a site ID from a previous installation and you wish to retai
         <p>Sign up to register your account.</p>
 
         <p>Click the badge again to get to your apps.</p>
+
+		<p>If you have any questions, please <a target="_blank" href="http://help.sumome.com">check out our FAQ</a>.</p>
       </div>
     </div>
   </div>
