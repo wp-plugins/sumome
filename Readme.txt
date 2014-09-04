@@ -1,6 +1,6 @@
 ===  Double your Email Subscribers + Image Sharing + Quote Sharing by SumoMe ===
 Contributors: SumoMe
-Tags: widget,MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit intent, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox, add this, addtoany, analytics, bookmarking, newsletter, bookmarks, del.icio.us, Digg, email, Facebook, facebook likeblog monetization, floating social buttons, gmail, google plus, image bookmarking, Image sharing, email, linkedin, pinterest, pintrest, Reddit, mailchimp, share image, share this, Shareaholic, sharebar, sharing, social bookmarking, social media, getresponse, social plugin, stats, tumblr, tweet button, twitter, wordpress, hello bar, hellobar
+Tags: widget,MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit intent, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox, add this, addtoany, analytics, bookmarking, newsletter, bookmarks, del.icio.us, Digg, email, Facebook, facebook likeblog monetization, floating social buttons, gmail, google plus, image bookmarking, Image sharing, email, linkedin, pinterest, pintrest, Reddit, mailchimp, share image, share this, Shareaholic, sharebar, sharing, social bookmarking, social media, getresponse, social plugin, stats, tumblr, tweet button, twitter, wordpress, hello bar, hellobar, crazy egg, crazyegg, heatmaps
 Requires at least: 3.0.1
 Tested up to: 3.8.1
 Stable tag: 4.4
@@ -45,6 +45,7 @@ Now, people will find your blog, read your article, share your article on Twitte
 * Install image sharing in literally seconds
 * Choose which features/apps you want to enable
 * Smart Bar to ask for emails at the top of your website.
+* Heat maps so you can visually see where your visitors are clicking (or not)
 
 = List Builder (email subscribe feature) =
 
