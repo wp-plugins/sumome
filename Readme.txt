@@ -3,7 +3,7 @@ Contributors: SumoMe
 Tags: widget,MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit intent, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox, add this, addtoany, analytics, bookmarking, newsletter, bookmarks, del.icio.us, Digg, email, Facebook, facebook likeblog monetization, floating social buttons, gmail, google plus, image bookmarking, Image sharing, email, linkedin, pinterest, pintrest, Reddit, mailchimp, share image, share this, Shareaholic, sharebar, sharing, social bookmarking, social media, getresponse, social plugin, stats, tumblr, tweet button, twitter, wordpress, hello bar, hellobar, crazy egg, crazyegg, heatmaps, shareaholic, mailmunch, addthis, sharethis, share bar
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 4.4
+Stable tag: 4.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
