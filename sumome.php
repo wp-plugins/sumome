@@ -3,9 +3,9 @@
 Plugin Name: SumoMe
 Plugin URI: http://sumome.com
 Description: Free Tools to grow your email list from SumoMe.com
-Version: 1.5
-Author: AppSumo
-Author URI: http://www.appsumo.com
+Version: 1.6
+Author: SumoMe
+Author URI: http://www.SumoMe.com
 */
 
 if (!class_exists('WP_Plugin_SumoMe'))

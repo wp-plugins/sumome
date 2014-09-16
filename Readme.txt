@@ -1,13 +1,13 @@
-===  Double your Email Subscribers + Image Sharing + Quote Sharing by SumoMe ===
+===  Double your Email Subscribers + Double your Sharing by SumoMe ===
 Contributors: SumoMe
-Tags: widget,MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit intent, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox, add this, addtoany, analytics, bookmarking, newsletter, bookmarks, del.icio.us, Digg, email, Facebook, facebook likeblog monetization, floating social buttons, gmail, google plus, image bookmarking, Image sharing, email, linkedin, pinterest, pintrest, Reddit, mailchimp, share image, share this, Shareaholic, sharebar, sharing, social bookmarking, social media, getresponse, social plugin, stats, tumblr, tweet button, twitter, wordpress, hello bar, hellobar, crazy egg, crazyegg, heatmaps
+Tags: widget,MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit intent, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox, add this, addtoany, analytics, bookmarking, newsletter, bookmarks, del.icio.us, Digg, email, Facebook, facebook likeblog monetization, floating social buttons, gmail, google plus, image bookmarking, Image sharing, email, linkedin, pinterest, pintrest, Reddit, mailchimp, share image, share this, Shareaholic, sharebar, sharing, social bookmarking, social media, getresponse, social plugin, stats, tumblr, tweet button, twitter, wordpress, hello bar, hellobar, crazy egg, crazyegg, heatmaps, shareaholic, mailmunch, addthis, sharethis, share bar
 Requires at least: 3.0.1
-Tested up to: 3.8.1
+Tested up to: 4.0
 Stable tag: 4.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The free and easiest way to double your email subscribers. Also includes Highlighter and ImageSharer to increase Facebook, Twitter and Pinterest use. 
+The free and easiest way to double your email subscribers. Also includes Sharing tools to double your traffic from Facebook, Twitter, Pinterest and more. 
 
 == Description ==
 
@@ -46,6 +46,7 @@ Now, people will find your blog, read your article, share your article on Twitte
 * Choose which features/apps you want to enable
 * Smart Bar to ask for emails at the top of your website.
 * Heat maps so you can visually see where your visitors are clicking (or not)
+* Share app - Get more traffic to your site with these super easy to setup share buttons!
 
 = List Builder (email subscribe feature) =
 
@@ -198,10 +199,6 @@ Why you should encourage Twitter sharing
 * Twitter sharing establishes your thought leadership
 * Twitter shares encourage discussion of your posts
 
-Here's why image sharing on Pinterest, Facebook, and Twitter is so powerful
-
-*
-
 
 == Screenshots ==
 
@@ -213,6 +210,7 @@ Here's why image sharing on Pinterest, Facebook, and Twitter is so powerful
 6. This is the internal dashboard you get
 7. Fully customize the look and feel of list builder
 8. Connect with all major email providers
+9. Super sexy sharing buttons to maximize your trafficking
 
 == Changelog ==
 
@@ -245,3 +243,6 @@ Here's why image sharing on Pinterest, Facebook, and Twitter is so powerful
 
 = 1.07 = 
 * Hello Smart Bar
+
+= 1.6 = 
+* Added Share app - Get more traffic to your site with these super easy to setup share buttons
