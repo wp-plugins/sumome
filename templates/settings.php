@@ -109,7 +109,7 @@ If you already have a site ID from a previous installation and you wish to retai
 
         <p>Sign up to register your account.</p>
 
-        <p>Click the badge again to get to your apps.</p>
+        <p>If you need any help during install, <a href="http://mailto:install@sumome.com">email us</a> (100% free and 48 hour response time).</p>
 
 		<p>If you have any questions, please <a target="_blank" href="http://help.sumome.com">check out our FAQ</a>.</p>
       </div>
@@ -151,11 +151,11 @@ If you already have a site ID from a previous installation and you wish to retai
     <h4>Step 3. Grow Faster</h4>
     <div class="row">
       <div class="large-12 columns">
-        <p>Click the SumoMe badge to return to your apps.</p>
+        <p>Click the SumoMe blue tab on your site to return to your apps.</p>
 
-        <p>Click on the apps to edit the settings.</p>
+        <p>Click on the app icons to edit the settings.</p>
 
-        <p>Save and you're ready to start growing!</p>
+        <p>Shazam. Your site is getting better while you sleep!</p>
       </div>
     </div>
   </div>
@@ -177,7 +177,7 @@ If you already have a site ID from a previous installation and you wish to retai
     <h4>Step 4. Leave a Review :)</h4>
     <div class="row">
       <div class="large-12 columns">
-       <p>If you like the plugin please leave an <a target="_blank" href="http://wordpress.org/support/view/plugin-reviews/sumome">honest review here</a>.</p>
+       <p>We'll love you forever if you leave an <a target="_blank" href="http://wordpress.org/support/view/plugin-reviews/sumome">honest review here</a> of the SumoMe plugin.</p>
 		<p></p>
       </div>
     </div>

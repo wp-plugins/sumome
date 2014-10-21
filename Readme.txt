@@ -1,6 +1,6 @@
 ===  Double your Email Subscribers + Double your Sharing by SumoMe ===
 Contributors: SumoMe
-Tags: widget,MailChimp, newsletter, newsletters, MailChimp plugin, Aweber,subscribe, popup, exit intent, growth, subscribers, twitter, share, social plugin, social networking, social sharing, subscription, sharebar, hellobar, digg digg, email , share, admin, posts, sharing, social , social media , links, popover, tweet , twitter , analytics , newsletter, automatic , mail, lightbox, add this, addtoany, analytics, bookmarking, newsletter, bookmarks, del.icio.us, Digg, email, Facebook, facebook likeblog monetization, floating social buttons, gmail, google plus, image bookmarking, Image sharing, email, linkedin, pinterest, pintrest, Reddit, mailchimp, share image, share this, Shareaholic, sharebar, sharing, social bookmarking, social media, getresponse, social plugin, stats, tumblr, tweet button, twitter, wordpress, hello bar, hellobar, crazy egg, crazyegg, heatmaps, shareaholic, mailmunch, addthis, sharethis, share bar
+Tags: widget,MailChimp, Aweber, Infusionsoft, madmimi, campaign monitor, constant contact, newsletter, get response,  subscribe, popup, exit intent, growth, subscribers, twitter, share, social plugin,  social sharing, subscription, email form, share, admin, posts, sharing, social , social media , links, popover, click to tweet , twitter , analytics , newsletter,  mail, lightbox, analytics, bookmarking, newsletter, bookmarks,  email, Facebook, floating social buttons, gmail, google plus, image bookmarking, Image sharing, email, pinterest plugin, pintrest, share image,   sharebar, sharing, social bookmarking, social media, getresponse, social plugin, tweet button, twitter, heat map, heatmaps, share bar, contact form, pinterest plugin, scroll map, content analytics, inbound marketing, mailing list, share buttons
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 4.5
@@ -47,6 +47,8 @@ Now, people will find your blog, read your article, share your article on Twitte
 * Smart Bar to ask for emails at the top of your website.
 * Heat maps so you can visually see where your visitors are clicking (or not)
 * Share app - Get more traffic to your site with these super easy to setup share buttons!
+* Contact Form - Simplest way to have your readers contact you
+* Content Analytics
 
 = List Builder (email subscribe feature) =
 
