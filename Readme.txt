@@ -248,3 +248,6 @@ Why you should encourage Twitter sharing
 
 = 1.6 = 
 * Added Share app - Get more traffic to your site with these super easy to setup share buttons
+
+= 1.7 =
+* Sanitize site ID when saving

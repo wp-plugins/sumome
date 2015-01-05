@@ -3,7 +3,7 @@
 Plugin Name: SumoMe
 Plugin URI: http://sumome.com
 Description: Free Tools to grow your email list from SumoMe.com
-Version: 1.6
+Version: 1.7
 Author: SumoMe
 Author URI: http://www.SumoMe.com
 */
@@ -29,7 +29,7 @@ class WP_Plugin_SumoMe {
 
   public function admin_init()
   {
-    register_setting('sumome', 'sumome_site_id');
+    register_setting('sumome', 'sumome_site_id', array($this, 'sanitize_site_id'));
 
     $this->check_generate_site_id();
 
@@ -48,6 +48,13 @@ class WP_Plugin_SumoMe {
       'sumome-settings',
       array('field' => 'sumome_site_id', 'label_for' => 'sumome_site_id')
     );
+  }
+
+  public function sanitize_site_id($value)
+  {
+    $value = preg_replace('/[^0-9a-f]/', '', strtolower($value));
+
+    return $value;
   }
 
   public function settings_field_site_id($args)
@@ -72,7 +79,7 @@ function sumome_generate_site_id() {
 }
 </script>
 EOF;
-    echo sprintf('<input type="text" name="%s" id="%s" value="%s" style="width: 540px" /> <button onclick="sumome_generate_site_id(); return false;" class="button">Get new site ID</button>', $field, $field, $value);
+    echo sprintf('<input type="text" name="%s" id="%s" value="%s" style="width: 540px" /> <button onclick="sumome_generate_site_id(); return false;" class="button">Get new site ID</button>', $field, $field, esc_attr($value));
   }
 
   public function admin_menu()
@@ -112,7 +119,7 @@ EOF;
     $site_id = get_option('sumome_site_id');
 
     if ($site_id) {
-      echo('<script src="//load.sumome.com/" data-sumo-site-id="' . $site_id . '" async></script>');
+      echo('<script src="//load.sumome.com/" data-sumo-site-id="' . esc_attr($site_id) . '" async></script>');
     }
   }
 }
