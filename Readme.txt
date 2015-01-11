@@ -231,6 +231,8 @@ Why you should encourage Twitter sharing
 = 1.08 = 
 * Added Smart Bar app to create easy email collect form at the top of your site. 
 
+= 1.8 =
+* Show apps for configuring in WordPress admin
 
 == Upgrade Notice == 
 
@@ -251,3 +253,6 @@ Why you should encourage Twitter sharing
 
 = 1.7 =
 * Sanitize site ID when saving
+
+= 1.8 =
+* Show apps for configuring in WordPress admin

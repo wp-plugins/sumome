@@ -3,7 +3,7 @@
 Plugin Name: SumoMe
 Plugin URI: http://sumome.com
 Description: Free Tools to grow your email list from SumoMe.com
-Version: 1.7
+Version: 1.8
 Author: SumoMe
 Author URI: http://www.SumoMe.com
 */
@@ -15,6 +15,7 @@ class WP_Plugin_SumoMe {
   public function __construct()
   {
     add_action('wp_head', array(&$this, 'append_script_code'));
+    add_action('admin_head', array(&$this, 'append_admin_script_code'));
     add_action('admin_menu', array(&$this, 'admin_menu'));
     add_action('admin_init', array(&$this, 'admin_init'));
   }
@@ -120,6 +121,17 @@ EOF;
 
     if ($site_id) {
       echo('<script src="//load.sumome.com/" data-sumo-site-id="' . esc_attr($site_id) . '" async></script>');
+    }
+  }
+
+  public function append_admin_script_code()
+  {
+    $this->check_generate_site_id();
+
+    $site_id = get_option('sumome_site_id');
+
+    if ($site_id) {
+      echo('<script src="//load.sumome.com/" data-sumo-mode="admin" data-sumo-site-id="' . esc_attr($site_id) . '" async></script>');
     }
   }
 }
