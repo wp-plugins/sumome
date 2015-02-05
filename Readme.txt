@@ -234,6 +234,9 @@ Why you should encourage Twitter sharing
 = 1.8 =
 * Show apps for configuring in WordPress admin
 
+= 1.9 =
+* Disable CloudFlare RocketLoader
+
 == Upgrade Notice == 
 
 = 1.04 = 
@@ -256,3 +259,6 @@ Why you should encourage Twitter sharing
 
 = 1.8 =
 * Show apps for configuring in WordPress admin
+
+= 1.9 =
+* Disable CloudFlare RocketLoader

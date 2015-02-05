@@ -89,7 +89,7 @@
   <form method="post" action="options.php">
     <?php settings_fields('sumome'); ?>
     <div class="sumome-instructions">
-If you already have a site ID from a previous installation and you wish to retain all your settings then enter the site ID above otherwise you may use a new site ID to perform a new installation.
+If you already have a site ID from a previous installation and you wish to retain all your settings then enter the site ID below otherwise you may use a new site ID to perform a new installation.  Changing the site ID will lose all settings, apps and purchases.
     </div>
     <table class="form-table">
       <?php do_settings_fields('sumome', 'sumome-settings') ?>
