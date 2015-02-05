@@ -3,7 +3,7 @@
 Plugin Name: SumoMe
 Plugin URI: http://sumome.com
 Description: Free Tools to grow your email list from SumoMe.com
-Version: 1.9
+Version: 1.10
 Author: SumoMe
 Author URI: http://www.SumoMe.com
 */
@@ -126,6 +126,9 @@ EOF;
 
   public function append_admin_script_code()
   {
+    if (defined('XMLRPC_REQUEST') || defined('DOING_AJAX') || defined('IFRAME_REQUEST'))
+      return false;
+
     $this->check_generate_site_id();
 
     $site_id = get_option('sumome_site_id');

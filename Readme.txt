@@ -237,6 +237,9 @@ Why you should encourage Twitter sharing
 = 1.9 =
 * Disable CloudFlare RocketLoader
 
+= 1.10 =
+* Ignore admin iframes
+
 == Upgrade Notice == 
 
 = 1.04 = 
@@ -262,3 +265,6 @@ Why you should encourage Twitter sharing
 
 = 1.9 =
 * Disable CloudFlare RocketLoader
+
+= 1.10 =
+* Ignore admin iframes
