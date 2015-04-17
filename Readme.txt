@@ -1,13 +1,13 @@
-===  Double your Email Subscribers + Double your Sharing by SumoMe ===
+===  Tools to grow your Email List, Social Sharing and Analytics - SumoMe ===
 Contributors: SumoMe
-Tags: widget,MailChimp, Aweber, Infusionsoft, madmimi, campaign monitor, constant contact, newsletter, get response,  subscribe, popup, exit intent, growth, subscribers, twitter, share, social plugin,  social sharing, subscription, email form, share, admin, posts, sharing, social , social media , links, popover, click to tweet , twitter , analytics , newsletter,  mail, lightbox, analytics, bookmarking, newsletter, bookmarks,  email, Facebook, floating social buttons, gmail, google plus, image bookmarking, Image sharing, email, pinterest plugin, pintrest, share image,   sharebar, sharing, social bookmarking, social media, getresponse, social plugin, tweet button, twitter, heat map, heatmaps, share bar, contact form, pinterest plugin, scroll map, content analytics, inbound marketing, mailing list, share buttons
+Tags: MailChimp, Aweber, Infusionsoft, Mad Mimi, Campaign Monitor, constant contact,  GetResponse, Eloqua,  ActiveCampaign, MyEmma, Infusionsoft, Feedblitz, HubSpot, Sailthru, Vero, Zapier, Ontraport, Pardot, Klaviyo, popup, exit intent, growth, subscribers, twitter, share, social plugin,  social sharing, subscription, email form, share,  sharing, social , social media , links, popover, click to tweet ,  analytics , newsletter,  widget,lightbox, analytics, newsletter, bookmarking, newsletter, bookmarks,  email, Facebook, floating social buttons, google plus, image bookmarking, Image sharing,  pinterest plugin, pintrest, share image,   sharebar, sharing, social bookmarking, social media, social plugin, sms, tweet button,  heat map, heatmaps, share bar, contact form, scroll box, content analytics, inbound marketing, mailing list, share buttons
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 4.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The free and easiest way to double your email subscribers. Also includes Sharing tools to double your traffic from Facebook, Twitter, Pinterest and more. 
+Free and easy way to double your email subscribers. Also, Sharing tools to double your traffic from Facebook, Twitter, Pinterest & more.
 
 == Description ==
 
@@ -161,7 +161,7 @@ You can use our default options or fully control the CSS in the advanced section
 
 = Do you provide instant connections to any email providers? = 
 
-Yes, we provide instant integration with Mailchimp, Aweber, GetResponse, Constant Contact and Campaign Monitor.  When a user joins, their email is automatically subscribed to your MailChimp, Aweber, or other newsletter list. Alternately, you can simply download a CSV list of your newsletter subscribers.
+Yes, we provide instant integration with Mailchimp, Aweber, GetResponse, Constant Contact, Klaviyo, Pardot, Vero, Zapier, Ontraport, Mad Mimi, MyEmma and Campaign Monitor.  When a user joins, their email is automatically subscribed to your MailChimp, Aweber, or other newsletter list. Alternately, you can simply download a CSV list of your newsletter subscribers.
 
 == Other Notes ==
 
@@ -240,6 +240,9 @@ Why you should encourage Twitter sharing
 = 1.10 =
 * Ignore admin iframes
 
+= 1.11 =
+* Added way more integrations
+
 == Upgrade Notice == 
 
 = 1.04 = 
@@ -268,3 +271,6 @@ Why you should encourage Twitter sharing
 
 = 1.10 =
 * Ignore admin iframes
+
+= 1.11 =
+* Added way more integrations
