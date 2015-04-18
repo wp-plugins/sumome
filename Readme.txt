@@ -13,14 +13,27 @@ Free and easy way to double your email subscribers. Also, Sharing tools to doubl
 
 Most blogs are designed for hit-and-run readers. People find your blog, read your article, and leave. Wouldn't it be nice if some of those people subscribe or share your amazing post?
 
-SumoMe provides the tools you need to grow your blog by engaging your readers. The features of this plugin will make it easy for your readers share your articles and engage in your community. Highlighter makes it easy to tweet about your article by selecting popular parts of your writing (like Kindle and Medium); ImageSharer makes it stupid simple to share your images (with a link to your post) on Pinterest, Facebook and Twitter; while the List Builder tool in this plugin will let you create a fancy lightbox popover to [build email subscriptions](http://sumome.com/) (for MailChimp, Aweber, GetResponse, MyEmma, ActiveCampaign, Infusionsoft, HubSpot, Feedblitz, Ontraport, Klaviyo, Constant Contact, Mad Mimi, Vero, Zapier, Pardot, or others).
+>SumoMe provides free tools you need to grow your WordPress site. This plugin will make it easy for your readers to join your email list, share your articles and optimize with analytics. The free tools include:
+>
+>List Builder will let you create a fancy lightbox popover to [build email subscriptions](http://sumome.com/) (for MailChimp, Aweber, GetResponse, MyEmma, ActiveCampaign, Infusionsoft, HubSpot, Feedblitz, Ontraport, Klaviyo, Constant Contact, Mad Mimi, Vero, Zapier, Pardot, or others); 
+>
+>Share makes it insanely easy for people to share on mobile or web all of your great content; 
+>
+>Heat Maps help you see where people are clicking (or not) on your website; 
+>
+>Highlighter makes it easy to click to tweet about your article by selecting popular parts of your writing (like Kindle and Medium); 
+>
+>Image Sharer makes it stupid simple to share your images (with a link to your post) on Pinterest, Facebook and Twitter; 
+>
+>And even more great free tools in our Sumo Store;
 
-Now, people will find your blog, read your article, share your article on Twitter/Facebook/Pinterest, and subscribe via email to your MailChimp email newsletter.
+Now, people will find your blog, read your article, share your article on Twitter/Facebook/Pinterest, and subscribe via email to your email newsletter.
 
 = Features =
 
-* Easy integration with any WordPress theme
+* Free and Easy integration with any WordPress theme
 * Simple email integration with MailChimp, Aweber, Constant Contact, and Campaign Monitor
+* 100% mobile optimized. A lot of your traffic is mobile, make sure your tools are too
 * Asynchronous loading that won't affect page load speed
 * Total control over which growth features to enable
 * Easy sharing on Twitter
@@ -44,17 +57,25 @@ Now, people will find your blog, read your article, share your article on Twitte
 * Share count shows how often people share your images
 * Install image sharing in literally seconds
 * Choose which features/apps you want to enable
-* Smart Bar to ask for emails at the top of your website.
+* Smart Bar to ask for emails at the top of your website
 * Heat maps so you can visually see where your visitors are clicking (or not)
 * Share app - Get more traffic to your site with these super easy to setup share buttons!
 * Contact Form - Simplest way to have your readers contact you
-* Content Analytics
+* Content Analytics - See how far people are scrolling on your website
 
 = List Builder (email subscribe feature) =
 
 The most important asset on your blog isn't your theme or even your content. It's your email list. As you build your email subscriber list, promoting your new posts becomes faster and more effective as you can quickly send a notification to thousands of interested people who want to ready your content.
 
 While most email subscription boxes are static widgets in your sidebar, our MailChimp/Aweber list builder generates extra attention and higher signup rates by launching an unobtrusive popover signup box. You can decide whether this box loads manually after the visitor has been on your page for a few seconds or automatically when the mouse moves away from the page (much like Exit Monitor).
+
+= A/B testing your email pop ups =
+
+Now you can figure out which text, size, timing, colors and more will convert best on your site. A/B testing can be setup in seconds and most people see 20-100% more email subscribers after testing.
+
+= Advanced display rules = 
+
+Now you can target all of our apps to any specific visitors you’d like. Want an email pop up or share to only show for visitors coming from Facebook. Done. Want your email pop up customized for a specific audience, done.
 
 = Choose when to request subscribes =
 
@@ -78,6 +99,11 @@ The email form is completely customizable. You can quickly change the wording, c
 = Or go completely old school =
 
 If you really want to customize your email popover, you can actually edit the full HTML. You can add a different form, select specific pages to not show the popover on, and even add a redirected confirmation URL. Customize to your heart's content.
+
+
+= Share (optimized social sharing buttons) =
+
+This app is used by many top 1000 sites. Instantly add sharing buttons to your desktop and mobile experience. Most people using Share see at least 20% more page views afterwards. The buttons auto optimize themselves and you can choose from these different places to share on (Facebook, Twitter, Pinterest, Reddit, ). Includes SMS sharing and WhatsApp sharing.
 
 = Highlighter (Twitter sharing feature) =
 
