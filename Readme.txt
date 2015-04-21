@@ -2,7 +2,7 @@
 Contributors: SumoMe
 Tags: MailChimp, Aweber, Infusionsoft, Mad Mimi, Campaign Monitor, constant contact,  GetResponse, Eloqua,  ActiveCampaign, MyEmma, Infusionsoft, Feedblitz, HubSpot, Sailthru, Vero, Zapier, Ontraport, Pardot, Klaviyo, popup, exit intent, growth, subscribers, twitter, share, social plugin,  social sharing, subscription, email form, share,  sharing, social , social media , links, popover, click to tweet ,  analytics , newsletter,  widget,lightbox, analytics, newsletter, bookmarking, newsletter, bookmarks,  email, Facebook, floating social buttons, google plus, image bookmarking, Image sharing,  pinterest plugin, pintrest, share image,   sharebar, sharing, social bookmarking, social media, social plugin, sms, tweet button,  heat map, heatmaps, share bar, contact form, scroll box, content analytics, inbound marketing, mailing list, share buttons
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.2
 Stable tag: 4.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,17 +15,17 @@ Most blogs are designed for hit-and-run readers. People find your blog, read you
 
 >SumoMe provides free tools you need to grow your WordPress site. This plugin will make it easy for your readers to join your email list, share your articles and optimize with analytics. The free tools include:
 >
->List Builder will let you create a fancy lightbox popover to [build email subscriptions](http://sumome.com/) (for MailChimp, Aweber, GetResponse, MyEmma, ActiveCampaign, Infusionsoft, HubSpot, Feedblitz, Ontraport, Klaviyo, Constant Contact, Mad Mimi, Vero, Zapier, Pardot, or others); 
+>List Builder will let you create a fancy lightbox pop up to [build email subscriptions](http://sumome.com/?src=wordpress) (for MailChimp, Aweber, GetResponse, MyEmma, ActiveCampaign, Infusionsoft, HubSpot, Feedblitz, Ontraport, Klaviyo, Constant Contact, Mad Mimi, Vero, Zapier, Pardot, or others).
 >
->Share makes it insanely easy for people to share on mobile or web all of your great content; 
+>Share makes it insanely easy for people to share on mobile or web all of your great content.
 >
->Heat Maps help you see where people are clicking (or not) on your website; 
+>Heat Maps help you see where people are clicking (or not) on your website.
 >
->Highlighter makes it easy to click to tweet about your article by selecting popular parts of your writing (like Kindle and Medium); 
+>Highlighter makes it easy to click to tweet about your article by selecting popular parts of your writing (like Kindle and Medium).
 >
->Image Sharer makes it stupid simple to share your images (with a link to your post) on Pinterest, Facebook and Twitter; 
+>Image Sharer makes it stupid simple to share your images (with a link to your post) on Pinterest, Facebook and Twitter.
 >
->And even more great free tools in our Sumo Store;
+>And even more great free tools in our Sumo Store.
 
 Now, people will find your blog, read your article, share your article on Twitter/Facebook/Pinterest, and subscribe via email to your email newsletter.
 
@@ -86,7 +86,7 @@ You can adjust the List Builder settings to automatically load the popover subsc
 The optional smart timing will automatically load the Aweber email subscription box when we think the reader is getting ready to leave. Much like Exit Monitor, we do this by monitoring mouse movements that determine exit intent. When the mouse moves toward the X to close your website, the popover will quickly ask for their email. (Note: This isn't a popup, so it won't interfere with closing the tab.)
 
 
-= Connect with major email providers =
+= Automatically Connect with major email providers =
 
 Our email list builder easily connects with all major email providers including Aweber, MailChimp, Constant Contact, GetResponse and Campaign Monitor. This means that if you use an email manager like MailChimp, your new subscribers can automatically subscribe to your list instantly.
 
@@ -103,7 +103,7 @@ If you really want to customize your email popover, you can actually edit the fu
 
 = Share (optimized social sharing buttons) =
 
-This app is used by many top 1000 sites. Instantly add sharing buttons to your desktop and mobile experience. Most people using Share see at least 20% more page views afterwards. The buttons auto optimize themselves and you can choose from these different places to share on (Facebook, Twitter, Pinterest, Reddit, ). Includes SMS sharing and WhatsApp sharing.
+This app is used by many top 1000 sites. Instantly add sharing buttons to your desktop and mobile experience. Most people using Share see at least 20% more page views afterwards. The buttons auto optimize themselves and you can choose from these different places to share on (Facebook, Twitter, Pinterest, Reddit, Buffer, Delicious, Digg, Evernote, Amazon Wishlist, Instapaper, Pocket, LinkedIn, Tumblr, StumbleUpon, Yummly). Includes SMS sharing and WhatsApp sharing.
 
 = Highlighter (Twitter sharing feature) =
 
@@ -140,6 +140,8 @@ According to Buffer, image tweets on Twitter get fully 2x the engagement of text
 = Easy image sharing for all three social networks =
 
 ImageSharer makes it super easy to add image sharing for all three powerful social networks without any coding or frustrating setup.  Simply install the SumoMe plugin, click to activate ImageSharer, and watch your share stats start rolling in.
+
+[See more at SumoMe.coms](http://sumome.com/?src=wordpress_bottom)
 
 [youtube http://www.youtube.com/watch?v=L_kbSb97QS0]
 
