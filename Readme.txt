@@ -2,7 +2,7 @@
 Contributors: SumoMe
 Tags: MailChimp, Aweber, Infusionsoft, Mad Mimi, Campaign Monitor, constant contact,  GetResponse, Eloqua,  ActiveCampaign, MyEmma, Infusionsoft, Feedblitz, HubSpot, Sailthru, Vero, Zapier, Ontraport, Pardot, Klaviyo, popup, exit intent, growth, subscribers, twitter, share, social plugin,  social sharing, subscription, email form, share,  sharing, social , social media , links, popover, click to tweet ,  analytics , newsletter,  widget,lightbox, analytics, newsletter, bookmarking, newsletter, bookmarks,  email, Facebook, floating social buttons, google plus, image bookmarking, Image sharing,  pinterest plugin, pintrest, share image,   sharebar, sharing, social bookmarking, social media, social plugin, sms, tweet button,  heat map, heatmaps, share bar, contact form, scroll box, content analytics, inbound marketing, mailing list, share buttons
 Requires at least: 3.0.1
-Tested up to: 4.2
+Tested up to: 4.2.1
 Stable tag: 4.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
