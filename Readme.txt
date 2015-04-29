@@ -242,7 +242,7 @@ Why you should encourage Twitter sharing
 6. A/B testing to maximize your conversion rate
 7. Advanced display rules to control which visitors see your pop ups
 8. Detailed stats page to track your email growth
-9. Super sexy sharing buttons to maximize your traffic. Works on mobile and desktop (Share app)
+9. Super sexy sharing buttons for mobile and desktop (Share app)
 10. Performance of how your shares are doing
 11. Easily control where you place your share bars
 12. Free Heat Maps to see where your visitors are clicking or not
