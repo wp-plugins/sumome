@@ -232,15 +232,25 @@ Why you should encourage Twitter sharing
 
 == Screenshots ==
 
+[See all of our screenshots at SumoMe.com](http://sumome.com/?src=wordpress_ss)
+
 1. This screen shot is how to Sign up once you have activated the plugin. 
 2. This is the screen to choose which apps to install.
-3. Here's the box when someone highlights text before they share it on Twitter or Facebook.
-4. Here's how a highlighted text gorgeously looks on your site.
-5. Here's what the list builder popup looks like.
-6. This is the internal dashboard you get
-7. Fully customize the look and feel of list builder
-8. Connect with all major email providers
-9. Super sexy sharing buttons to maximize your trafficking
+3. Fully customizable email pop ups (List Builder app)
+4. Total control of the design and feel of the pop ups
+5. Connect with all major email providers (MailChimp, Aweber, HubSpot, ActiveCampaign)
+6. A/B testing to maximize your conversion rate
+7. Advanced display rules to control which visitors see your pop ups
+8. Detailed stats page to track your email growth
+9. Super sexy sharing buttons to maximize your traffic. Works on mobile and desktop (Share app)
+10. Performance of how your shares are doing
+11. Easily control where you place your share bars
+12. Free Heat Maps to see where your visitors are clicking or not
+13. Image share (social share buttons) to double or triple shares on your images
+14. Scroll box pop up that gets triggered based on a readers scrolling
+15. Content Analytics to track readers scrolling
+16. Here's how a highlighted text gorgeously looks on your site.
+
 
 == Changelog ==
 
@@ -270,6 +280,9 @@ Why you should encourage Twitter sharing
 
 = 1.11 =
 * Added way more integrations
+
+= 1.12 =
+* images, yay
 
 == Upgrade Notice == 
 
@@ -302,3 +315,6 @@ Why you should encourage Twitter sharing
 
 = 1.11 =
 * Added way more integrations
+
+= 1.12 = 
+* images, neat
