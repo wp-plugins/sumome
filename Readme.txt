@@ -249,7 +249,7 @@ Why you should encourage Twitter sharing
 13. Image share (social share buttons) to double or triple shares on your images
 14. Scroll box pop up that gets triggered based on a readers scrolling
 15. Content Analytics to track readers scrolling
-16. Here's how a highlighted text gorgeously looks on your site.
+16. Let users Highlight text on your site and share it
 
 
 == Changelog ==
