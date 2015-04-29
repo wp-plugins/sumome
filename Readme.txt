@@ -141,7 +141,7 @@ According to Buffer, image tweets on Twitter get fully 2x the engagement of text
 
 ImageSharer makes it super easy to add image sharing for all three powerful social networks without any coding or frustrating setup.  Simply install the SumoMe plugin, click to activate ImageSharer, and watch your share stats start rolling in.
 
-[See more at SumoMe.coms](http://sumome.com/?src=wordpress_bottom)
+[See more at SumoMe.com](http://sumome.com/?src=wordpress_bottom)
 
 [youtube http://www.youtube.com/watch?v=L_kbSb97QS0]
 
