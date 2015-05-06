@@ -95,7 +95,7 @@
     <h4>Step 1. Welcome to the family! Let's register your account</h4>
     <div class="row">
       <div class="large-12 columns">
-        <p>Click on the blue tab in the top right of your screen. It may be tiny but it's there. Over there ===></p>
+        <p>Click the blue tab on the top right of your screen. It may be tiny, but it's there. Way over there ===></p>
 
         <p>Sign up to register your account.</p>
 
