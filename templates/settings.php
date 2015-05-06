@@ -95,7 +95,7 @@
     <h4>Step 1. Welcome to the family! Let's register your account</h4>
     <div class="row">
       <div class="large-12 columns">
-        <p>Click on the blue tab in the top right of your screen. It may be tiny but it's there.</p>
+        <p>Click on the blue tab in the top right of your screen. It may be tiny but it's there. Over there ===></p>
 
         <p>Sign up to register your account.</p>
 
@@ -175,6 +175,7 @@
   </div>
 </div>
 
+<div>
 <form method="post" action="options.php">
     <?php settings_fields('sumome'); ?>
     <div class="sumome-instructions">
@@ -185,7 +186,7 @@ If you already have a site ID from a previous installation and you wish to retai
     </table>
     <?php submit_button(); ?>
   </form>
-
+</div>
 <!-- Sixth Band (Image right with Text) -->
 <!--
 <div class="row">
