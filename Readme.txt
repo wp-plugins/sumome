@@ -1,13 +1,13 @@
 ===  Tools to grow your Email List, Social Sharing and Analytics ===
 Contributors: SumoMe
-Tags: MailChimp, Aweber, Infusionsoft, Mad Mimi, Campaign Monitor, constant contact,  GetResponse, Eloqua,  ActiveCampaign, MyEmma, Infusionsoft, Feedblitz, HubSpot, Sailthru, Vero, Zapier, Ontraport, Pardot, Klaviyo, popup, exit intent, growth, subscribers, twitter, share, social plugin,  social sharing, subscription, email form, share,  sharing, social , social media , links, popover, click to tweet ,  analytics , newsletter,  widget,lightbox, analytics, newsletter, bookmarking, newsletter, bookmarks,  email, Facebook, floating social buttons, google plus, image bookmarking, Image sharing,  pinterest plugin, pintrest, share image,   sharebar, sharing, social bookmarking, social media, social plugin, sms, tweet button,  heat map, heatmaps, share bar, contact form, scroll box, content analytics, inbound marketing, mailing list, share buttons
+Tags: MailChimp, Aweber, Infusionsoft, Mad Mimi, Campaign Monitor, constant contact,  GetResponse, Eloqua,  ActiveCampaign, MyEmma, Infusionsoft, Feedblitz, HubSpot, Sailthru, Vero, Zapier, Ontraport, Pardot, Klaviyo, popup, exit intent, growth, subscribers, twitter, share, social plugin,  social sharing, subscription, email form, share,  sharing, social , social media buttons , links, click to tweet ,  analytics , newsletter,  widget,lightbox, analytics, newsletter, newsletter, Facebook, floating social buttons, google plus, image bookmarking, Image sharing,  pinterest plugin, pintrest, share image,   sharebar, sharing, social bookmarking, social plugin, sms, tweet button,  heat map, heatmaps, share bar, contact form, scroll box, content analytics, inbound marketing, mailing list, share buttons
 Requires at least: 3.0.1
 Tested up to: 4.2.1
 Stable tag: 4.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Free and easy way to double your email subscribers. Also, Sharing tools to double your traffic from Facebook, Twitter, Pinterest & more.
+Free and easy way to double your email subscribers. And Sharing tools to double your traffic from Facebook, Twitter, Pinterest & more.
 
 == Description ==
 
@@ -141,6 +141,15 @@ According to Buffer, image tweets on Twitter get fully 2x the engagement of text
 
 ImageSharer makes it super easy to add image sharing for all three powerful social networks without any coding or frustrating setup.  Simply install the SumoMe plugin, click to activate ImageSharer, and watch your share stats start rolling in.
 
+= Latest Updates =
+
+* 5/21 Added tons new List Builder design templates
+* Added URL shortener for all sharing tools
+* Made Scroll Box and Smart Bar (hello bar alternative) to Pro versions (AB testing, multiple popups, advanced display rules)
+* Updating Heat Maps (crazyegg alternative) and Content Analytics (scroll tracking) to more automatic tracking abilities
+* Added SMS and WhatsApp social sharing buttons
+
+
 [See more at SumoMe.com](http://sumome.com/?src=wordpress_bottom)
 
 [youtube http://www.youtube.com/watch?v=L_kbSb97QS0]
@@ -148,9 +157,9 @@ ImageSharer makes it super easy to add image sharing for all three powerful soci
 == Installation ==
 
 1. Upload folder wp-sumome.zip to the `/wp-content/plugins/` directory
-1. Activate the plugin through the ÃƒÂ«Plugins' menu in WordPress
-1. Go to your site and click on the blue thingy in the top right.
-1. Click on Highlighter or List Builder to install the apps and get going.
+1. Activate the plugin through the `Plugins` menu in WordPress
+1. Click on the blue thingy in the top right.
+1. Register and click on the Sumo Store to install the apps you want.
 1. Eat a taco and enjoy the increased traffic to your site. 
 
 == Frequently Asked Questions ==
