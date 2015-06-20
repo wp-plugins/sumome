@@ -1,4 +1,4 @@
-===  Tools to grow your Email List, Social Sharing and Analytics ===
+===  Free Tools to grow your Email List, Social Sharing and Analytics ===
 Contributors: SumoMe
 Tags: MailChimp, Aweber, Infusionsoft, Mad Mimi, Campaign Monitor, constant contact,  GetResponse, Eloqua,  ActiveCampaign, MyEmma, Infusionsoft, Feedblitz, HubSpot, Sailthru, Vero, Zapier, Ontraport, Pardot, Klaviyo, popup, exit intent, growth, subscribers, twitter, share, social plugin,  social sharing, subscription, email form, share,  sharing, social , social media buttons , links, click to tweet ,  analytics , newsletter,  widget,lightbox, analytics, newsletter, newsletter, Facebook, floating social buttons, google plus, image bookmarking, Image sharing,  pinterest plugin, pintrest, share image,   sharebar, sharing, social bookmarking, social plugin, sms, tweet button,  heat map, heatmaps, share bar, contact form, scroll box, content analytics, inbound marketing, mailing list, share buttons
 Requires at least: 3.0.1
@@ -15,15 +15,19 @@ Most blogs are designed for hit-and-run readers. People find your blog, read you
 
 >SumoMe provides free tools you need to grow your WordPress site. This plugin will make it easy for your readers to join your email list, share your articles and optimize with analytics. The free tools include:
 >
->List Builder will let you create a fancy lightbox pop up to [build email subscriptions](http://sumome.com/?src=wordpress) (for MailChimp, Aweber, GetResponse, MyEmma, ActiveCampaign, Infusionsoft, HubSpot, Feedblitz, Ontraport, Klaviyo, Constant Contact, Mad Mimi, Vero, Zapier, Pardot, or others).
+>`List Builder` will let you create a fancy lightbox pop up to [build email subscriptions](http://sumome.com/?src=wordpress) (for MailChimp, Aweber, GetResponse, MyEmma, ActiveCampaign, Infusionsoft, HubSpot, Feedblitz, Ontraport, Klaviyo, Constant Contact, Mad Mimi, Vero, Zapier, Pardot, or others).
 >
->Share makes it insanely easy for people to share on mobile or web all of your great content.
+>`Share` makes it insanely easy for people to share on mobile or web all of your great content.
 >
->Heat Maps help you see where people are clicking (or not) on your website.
+>`Scroll Box` is an email collection box triggered by how far your reader makes it down the screen.
 >
->Highlighter makes it easy to click to tweet about your article by selecting popular parts of your writing (like Kindle and Medium).
+>`Smart Bar` is a Floating Bar that can appear at the top or bottom of your website. You can encourage people to subscribe to your newsletter, go to a specific page or follow you on your social networks.
 >
->Image Sharer makes it stupid simple to share your images (with a link to your post) on Pinterest, Facebook and Twitter.
+>`Heat Maps` help you see where people are clicking (or not) on your website.
+>
+>`Highlighter` makes it easy to click to tweet about your article by selecting popular parts of your writing (like Kindle and Medium).
+>
+>`Image Sharer` makes it stupid simple to share your images (with a link to your post) on Pinterest, Facebook and Twitter.
 >
 >And even more great free tools in our Sumo Store.
 
@@ -143,6 +147,7 @@ ImageSharer makes it super easy to add image sharing for all three powerful soci
 
 = Latest Updates =
 
+* 6/20 - Smart bar can now appear at the bottom of your pages, TONS more templates for Scroll Box / Smart Bar and List Builder, 
 * 5/21 Added tons new List Builder design templates
 * Added URL shortener for all sharing tools
 * Made Scroll Box and Smart Bar (hello bar alternative) to Pro versions (AB testing, multiple popups, advanced display rules)
@@ -150,7 +155,7 @@ ImageSharer makes it super easy to add image sharing for all three powerful soci
 * Added SMS and WhatsApp social sharing buttons
 
 
-[See more at SumoMe.com](http://sumome.com/?src=wordpress_bottom)
+[`See more` at SumoMe.com](http://sumome.com/?src=wordpress_bottom)
 
 [youtube http://www.youtube.com/watch?v=L_kbSb97QS0]
 
