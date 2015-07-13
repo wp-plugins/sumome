@@ -1,6 +1,6 @@
 ===  Free Tools to grow your Email List, Social Sharing and Analytics ===
 Contributors: SumoMe
-Tags: MailChimp, Aweber, Infusionsoft, Mad Mimi, Campaign Monitor, constant contact,  GetResponse, Eloqua,  ActiveCampaign, MyEmma, Infusionsoft, Feedblitz, HubSpot, Sailthru, Vero, Zapier, Ontraport, Pardot, Klaviyo, popup, exit intent, growth, subscribers, twitter, facebook share, social plugin,  social sharing, subscription, email form, share,  sharing, social , social media buttons , links, click to tweet ,  analytics , newsletter,  widget,lightbox, analytics, newsletter, newsletter, Facebook, floating social buttons, google plus, image bookmarking, Image sharing,  pinterest plugin, pintrest, share image,   sharebar, sharing, social bookmarking, social plugin, sms, tweet button,  heat map, heatmaps, twitter share, contact form, scroll box, content analytics, inbound marketing, mailing list, share buttons
+Tags: MailChimp, Aweber, Infusionsoft, Mad Mimi, Campaign Monitor, constant contact,  GetResponse, Eloqua,  ActiveCampaign, MyEmma, Infusionsoft, Feedblitz, HubSpot, Sailthru, Vero, Zapier, Ontraport, Pardot, Klaviyo, popup, exit intent, growth, subscribers, twitter, facebook share, social plugin,  social sharing, subscription, email form, share,  sharing, social , social media buttons , links, click to tweet ,  analytics , newsletter,  widget,lightbox, analytics, newsletter, newsletter, Facebook, floating social buttons, google plus, Image sharing,  pinterest plugin, pintrest, share image,   sharebar, sharing, social bookmarking, social plugin, sms, tweet button,  heat map, heatmaps, twitter share, contact form, scroll box, content analytics, inbound marketing, mailing list, share buttons, welcome mat, landing page
 Requires at least: 3.0.1
 Tested up to: 4.2.1
 Stable tag: 4.5
@@ -19,11 +19,13 @@ Most blogs are designed for hit-and-run readers. People find your blog, read you
 >
 >`Share` makes it insanely easy for people to share on mobile or web all of your great content.
 >
+>`Welcome Mat` displays a full-screen call to action that shows when visitors land on your site.
+>
+>`Heat Maps` help you see where people are clicking (or not) on your website.
+>
 >`Scroll Box` is an email collection box triggered by how far your reader makes it down the screen.
 >
 >`Smart Bar` is a Floating Bar that can appear at the top or bottom of your website. You can encourage people to subscribe to your newsletter, go to a specific page or follow you on your social networks.
->
->`Heat Maps` help you see where people are clicking (or not) on your website.
 >
 >`Highlighter` makes it easy to click to tweet about your article by selecting popular parts of your writing (like Kindle and Medium).
 >
@@ -66,6 +68,7 @@ Now, people will find your blog, read your article, share your article on Twitte
 * Share app - Get more traffic to your site with these super easy to setup share buttons!
 * Contact Form - Simplest way to have your readers contact you
 * Content Analytics - See how far people are scrolling on your website
+* Welcome Mat - Now you can instantly add a full-screen call to action to grow your email list or drive visitors to a certain page.
 
 = List Builder (email subscribe feature) =
 
@@ -264,6 +267,7 @@ Why you should encourage Twitter sharing
 14. Scroll box pop up that gets triggered based on a readers scrolling
 15. Content Analytics to track readers scrolling
 16. Let users Highlight text on your site and share it
+17. Welcome Mat shows a full-screen call to action of your choice. Works insanely well.
 
 
 == Changelog ==
